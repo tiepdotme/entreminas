@@ -1,22 +1,23 @@
 {
-  "store_id": 1114,
-  "name": "entreminas",
-  "domain": "vivaceshop.netlify.app",
-  "short_name": "entreminas",
-  "description": "",
-  "primary_color": "#695c62",
-  "secondary_color": "#777781",
-  "bg_color": "#ffffff",
+  "domain": "entreminas.netlify.app",
+  "currency_symbol": "R$",
+  "primary_color": "#676770",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "flatly",
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "entreminas",
+  "short_name": "entreminas",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo.jpg",
+  "country_code": "BR",
+  "secondary_color": "#695c62",
+  "icon": "/img/uploads/logo.jpg",
+  "store_id": 1114,
+  "description": "Delicadeza, simplicidade e sofisticação\n\nPeças delicadamente feitas a mão por artesãos e artistas comprometidos com a beleza, sustentabilidade e singularidade da arte mineira.\n\nFEITO A MÃO, FEITO EM MINAS!",
+  "large_icon": "/img/uploads/logo.jpg"
 }
