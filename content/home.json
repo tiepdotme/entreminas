@@ -21,6 +21,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/co.png",
       "link": "www.instagram.com/entreminas.co"
