@@ -7,20 +7,23 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "",
+          "start": "2020-07-23T21:36:04.818Z",
           "end": "",
-          "img": "/img/uploads/maio-leticia.png"
+          "img": "/img/uploads/maio-joao.png",
+          "link": "https://entreminas.netlify.app/esculturas"
         },
         {
-          "start": "",
+          "start": "2020-07-23T21:37:31.196Z",
           "end": "",
-          "img": "/img/uploads/maio-geral.png"
+          "img": "/img/uploads/maio-leticia.png",
+          "link": "https://entreminas.netlify.app/bolsas"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/co.png"
+      "img": "/img/uploads/co.png",
+      "link": "www.instagram.com/entreminas.co"
     },
     {
       "type": "banners-grid",
@@ -29,10 +32,11 @@
           "img": "/img/uploads/maio-bonecas.png"
         },
         {
-          "img": "/img/uploads/maio-joao.png"
+          "img": "/img/uploads/maio-fro-afeto.png"
         },
         {
-          "img": "/img/uploads/maio-fro-afeto.png"
+          "img": "/img/uploads/maio-geral.png",
+          "link": "https://entreminas.netlify.app/"
         }
       ]
     },
