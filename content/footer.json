@@ -10,8 +10,12 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Categorias",
-    "list": []
+    "title": "Instagram",
+    "list": [
+      {
+        "text": "www.instagram.com/entreminas.co"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
