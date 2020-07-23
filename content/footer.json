@@ -6,12 +6,18 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "links_2": {
     "list_categories": false,
     "title": "Instagram",
-    "list": []
+    "list": [
+      {
+        "url": "www.instagram.com/entreminas.co"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
@@ -27,7 +33,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +41,12 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
