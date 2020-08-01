@@ -38,11 +38,6 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "lowest_price"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
