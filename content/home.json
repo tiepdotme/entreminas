@@ -4,19 +4,19 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
-          "start": "2020-07-23T21:36:04.818Z",
+          "start": "",
           "end": "",
-          "img": "/img/uploads/maio-joao.png",
+          "img": "/img/uploads/banner-g-joao.png",
           "link": "https://entreminas.netlify.app/esculturas"
         },
         {
-          "start": "2020-07-23T21:37:31.196Z",
+          "start": "",
           "end": "",
-          "img": "/img/uploads/maio-leticia.png",
-          "link": "https://entreminas.netlify.app/bolsas"
+          "img": "/img/uploads/banner-g-leticia.png",
+          "link": "https://entreminas.netlify.app/feminina"
         }
       ]
     },
