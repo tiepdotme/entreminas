@@ -4,12 +4,12 @@
   "primary_color": "#8c8363",
   "theme": {
     "bootswatch": "lux",
-    "custom": "_"
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.jpg",
-  "name": "entreminas",
-  "short_name": "entreminas",
+  "name": "Entre Minas Loja Colaborativa",
+  "short_name": "Entre Minas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
