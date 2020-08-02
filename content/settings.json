@@ -1,9 +1,9 @@
 {
   "domain": "entreminas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ebeae5",
+  "primary_color": "#c59bad",
   "theme": {
-    "bootswatch": "journal",
+    "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/minilogo.jpg",
   "country_code": "BR",
-  "secondary_color": "#edf3ed",
+  "secondary_color": "#c97526",
   "icon": "/img/uploads/minilogo.jpg",
   "store_id": 1114,
   "description": "Delicadeza, simplicidade e sofisticação\n\nPeças delicadamente feitas a mão por artesãos e artistas comprometidos com a beleza, sustentabilidade e singularidade da arte mineira.\n\nFEITO A MÃO, FEITO EM MINAS!",
