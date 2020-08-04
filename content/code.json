@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".product-card__pictures {\n   border: 1px solid #ccc;\n}",
   "html_head": "",
   "html_body": ""
 }
