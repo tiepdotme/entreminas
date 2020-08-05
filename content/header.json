@@ -1,15 +1,19 @@
 {
   "marketing_stripe": {
-    "text": "Frete máximo de R$ 20,00 em toda loja",
+    "text": "R$ 25,00 DE FRETE FIXO PARA SUDESTE E BRASÍLIA (DF)",
     "link": ""
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/esculturas?Esculturas ",
+      "/feminina?Feminina",
+      "/casaedecoracao?Casa e Decoração"
+    ],
     "random": 6,
     "full_width": true
   },
