@@ -1,18 +1,18 @@
 {
   "description": {
-    "title": "",
+    "title": "ENTRE MINAS | ARTE MINEIRA",
     "text": ""
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "PÁGINAS",
     "list": [
       {}
     ]
   },
   "links_2": {
     "list_categories": false,
-    "title": "Instagram",
+    "title": "INSTAGRAM",
     "list": [
       {
         "url": "www.instagram.com/entreminas.co"
@@ -20,7 +20,7 @@
     ]
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "CONTATOS",
     "phone_wpp": true,
     "socials": true,
     "email": true,
