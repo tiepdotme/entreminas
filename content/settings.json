@@ -1,12 +1,12 @@
 {
   "domain": "entreminas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#06d6a0",
+  "primary_color": "#1ebe93",
   "theme": {
-    "bootswatch": "lux",
+    "bootswatch": "yeti",
     "custom": "_"
   },
-  "bg_color": "#dfdddd",
+  "bg_color": "#fcfcfc",
   "logo": "/img/uploads/em-sem-fundo.png",
   "name": "Entre Minas Loja Colaborativa",
   "short_name": "Entre Minas",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/minilogo.jpg",
   "country_code": "BR",
-  "secondary_color": "#766f6f",
+  "secondary_color": "#abacb0",
   "icon": "/img/uploads/minilogo.jpg",
   "store_id": 1114,
   "description": "Delicadeza, simplicidade e sofisticação\n\nPeças delicadamente feitas a mão por artesãos e artistas comprometidos com a beleza, sustentabilidade e singularidade da arte mineira.\n\nFEITO A MÃO, FEITO EM MINAS!",
