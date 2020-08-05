@@ -12,10 +12,11 @@
     "featured": [
       "/esculturas?Esculturas ",
       "/feminina?Feminina",
-      "/casaedecoracao?Casa e Decoração"
+      "/casaedecoracao?Casa e Decoração",
+      "/papelaria?Papelaria"
     ],
-    "random": 6,
-    "full_width": true
+    "random": 1,
+    "full_width": false
   },
   "search_input": true
 }
