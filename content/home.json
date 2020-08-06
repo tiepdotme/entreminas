@@ -9,18 +9,19 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-g-tiradentes2.png"
+          "img": "/img/uploads/banner-g-tiradentes-desktop.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-g-leticia.png",
+          "img": "/img/uploads/banner-g-leticia-desktop.png",
           "link": "https://entreminas.netlify.app/feminina"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-g-dg-e-joao-branco.png"
+          "img": "/img/uploads/banner-g-joao-desktop-orange.png",
+          "link": "https://entreminas.netlify.app/esculturas"
         }
       ]
     },
