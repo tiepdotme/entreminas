@@ -46,11 +46,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-p-mara.png",
+          "img": "/img/uploads/banner-p-mara-desktop.png",
           "link": "https://entreminas.netlify.app/casaedecoracao"
         },
         {
-          "img": "/img/uploads/banner-p-eglea.png"
+          "img": "/img/uploads/banner-p-eglea..png"
         }
       ]
     },
