@@ -9,19 +9,22 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-g-tiradentes-desktop.png"
+          "img": "/img/uploads/banner-g-tiradentes-desktop.png",
+          "mobile_img": "/img/uploads/banner-g-tiradentes-celular.png"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-g-leticia-desktop.png",
-          "link": "https://entreminas.netlify.app/feminina"
+          "link": "https://entreminas.netlify.app/feminina",
+          "mobile_img": "/img/uploads/banner-g-leticia-celular.png"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-g-joao-desktop-orange.png",
-          "link": "https://entreminas.netlify.app/esculturas"
+          "link": "https://entreminas.netlify.app/esculturas",
+          "mobile_img": "/img/uploads/banner-g-joao-celular.png"
         }
       ]
     },
