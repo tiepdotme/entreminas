@@ -41,7 +41,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
       "headless": true,
       "sort": "news"
