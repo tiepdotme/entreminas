@@ -41,9 +41,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": null,
-      "headless": true,
+      "headless": false,
       "sort": "news"
     },
     {
@@ -67,7 +67,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "lowest_price",
-      "headless": true
+      "headless": false
     }
   ]
 }
