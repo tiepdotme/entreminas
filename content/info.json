@@ -5,7 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 5 vezes SEM juros"
+    "text": "Parcele em até 5 vezes SEM juros",
+    "link": "https://www.entreminas.com/pages/pagamentos"
   },
   "exchange": {
     "show": false,
