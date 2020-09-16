@@ -1,5 +1,5 @@
 {
-  "css": ".product-card__pictures {\n   border: 1px solid #ccc;\n}\n#product-description{\n    border: 2px solid #ccc;\n}\n.shipping-calculator__services::before {\n  content: \"⚠️ Alguns prazos de entrega, via Correios, estão mais longos devido à pandemia. Se você optar por retirar na loja física, só entregamos pedidos do site aos SÁBADOS⚠️\";\n  border: 1px solid #000;\n  border-radius: 1.5rem;\n  padding: 1rem;\n  font-size: 1rem;\n  display: inherit;\n  margin-bottom: 1rem\n}\n<script>\nwindow.ecomShippingApps = [ 1253, 1248] \n</script>",
+  "css": ".product-card__pictures {\n   border: 1px solid #ccc;\n}\n#product-description{\n    border: 2px solid #ccc;\n}\n.shipping-calculator__services::before {\n  content: \"⚠️ Alguns prazos de entrega, via Correios, estão mais longos devido à pandemia. Se você optar por retirar na loja física, só entregamos pedidos do site aos SÁBADOS⚠️\";\n  border: 1px solid #000;\n  border-radius: 1.5rem;\n  padding: 1rem;\n  font-size: 1rem;\n  display: inherit;\n  margin-bottom: 1rem\n}\n",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<script>\nwindow.ecomShippingApps = [ 1253, 1248] \n</script>"
 }
