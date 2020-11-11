@@ -1,4 +1,5 @@
 {
+  "store_id": 1114,
   "domain": "www.entreminas.com",
   "currency_symbol": "R$",
   "primary_color": "#81b29a",
@@ -17,7 +18,6 @@
   "country_code": "BR",
   "secondary_color": "#3d405b",
   "icon": "/img/uploads/minilogo.jpg",
-  "store_id": 1114,
   "description": "Delicadeza, simplicidade e sofisticação\n\nPeças delicadamente feitas a mão por artesãos e artistas comprometidos com a beleza, sustentabilidade e singularidade da arte mineira.\n\n\nFEITO A MÃO, FEITO EM MINAS!",
   "large_icon": "/img/uploads/em_sem_fundo-removebg-preview.png"
 }
