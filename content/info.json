@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete com 20% de desconto para todo o Brasil (via PAC)"
   },
   "installments": {
