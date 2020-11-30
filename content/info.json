@@ -1,7 +1,8 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Frete com 20% de desconto para todo o Brasil (via PAC)"
+    "show": true,
+    "text": "Amor Materno com FRETE GRÁTIS (tempo limitado)",
+    "link": "https://www.entreminas.com/esculturas"
   },
   "installments": {
     "show": true,
