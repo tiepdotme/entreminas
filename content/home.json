@@ -36,8 +36,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "headless": false,
-      "sort": null,
-      "collection_id": "5f346b31f023684cdbd9e439"
+      "sort": "slug",
+      "collection_id": null
     },
     {
       "type": "collection-shelf",
