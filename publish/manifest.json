@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.541f802f565d534c87b1ba42200cd03c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3ff279138a287241f6a2bec6da38a8cc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.05297bf8bd9039408ceeb39d6e8fbf07.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.66e34544f03a0f6ed5735a13887da118.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.f936dc27056ccf25cdd7d202ded2483c.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Entre Minas | Arte Mineira",
+  "short_name": "Entre Minas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Delicadeza, simplicidade e sofisticação\n\nPeças delicadamente feitas a mão por artesãos e artistas comprometidos com a beleza, sustentabilidade e singularidade da arte mineira.\n\n\nFEITO A MÃO, FEITO EM MINAS!",
+  "background_color": "#ffffff",
+  "theme_color": "#81b29a"
+}
