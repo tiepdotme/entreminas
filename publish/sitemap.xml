@@ -1118,12 +1118,6 @@
     </url>
   
     <url>
-      <loc>https://www.entreminas.com/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.entreminas.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1131,6 +1125,12 @@
   
     <url>
       <loc>https://www.entreminas.com/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.entreminas.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1148,13 +1148,13 @@
     </url>
   
     <url>
-      <loc>https://www.entreminas.com/pages/sobre-nos</loc>
+      <loc>https://www.entreminas.com/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.entreminas.com/pages/trocas</loc>
+      <loc>https://www.entreminas.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
